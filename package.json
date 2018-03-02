@@ -1,0 +1,18 @@
+{
+  "name": "rainbowui-time-line",
+  "version": "2.0.2",
+  "description": "RainbowUI time line",
+  "main": "./src/index.js",
+  "keywords": [],
+  "author": "RainbowUI Team",
+  "publishConfig": {
+    "registry": "http://repo.ebaotech.com/artifactory/api/npm/npm-all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://oss.ebaotech.com/rainbow-ui/core.git"
+  },
+  "dependencies": {
+    "rainbowui-core": "^2.0.0"
+  }
+}
